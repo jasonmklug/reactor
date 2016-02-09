@@ -1,0 +1,12 @@
+{
+  "name" : "Reactor",
+  "description" : "A Breakable Toy&tm;",
+  "homepage" : "http://example.com",
+  "keywords" : ["toy", "example"],
+  "author" : "Jason M. Klug <jason@klug.com>",
+  "contributors" : [],
+  "dependencies" : [],
+  "repository" : {"type": "git", "url": "git://github.com/jasonmklug/reactor.git"},
+  "main" : "reactor.js",
+  "version" : "0.0.1"
+}
